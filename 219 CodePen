@@ -1,0 +1,26 @@
+<p><p></p><a><style>
+  *{
+    background:#101724;
+  }
+  p,a{
+    position:fixed;
+    background:#fff;
+    color:fff;
+  }
+  p{
+    padding:65 8;
+    rotate:55deg;
+    margin:10 136;
+    box-shadow:61q 39q,114q -41q,174q -3q
+  }
+  p+p{
+    scale:-1 1;
+    rotate:-55deg;
+    margin:10 232
+  }
+  a{
+    padding:35 10;
+    margin:107 85;
+    box-shadow:103q 66q,103q -66q,206q 0
+  }
+</style>
