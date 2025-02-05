@@ -1,0 +1,20 @@
+<p><style>
+  *{
+    background:#67AED4;
+    color:#fff;
+    border:22q solid;
+    margin:200 -20 -20;
+    *:not(p){
+      margin:-20 150 -20;
+      background:#0F2836;
+      box-shadow:40px 20px#67AED4,60px 20px,100px 20px#67AED4,120px 20px;
+      -webkit-box-reflect:left -106q
+    }
+  }
+  p{
+    padding:80 20;
+    background:#fff;
+    margin:-200-20;
+    clip-path:polygon(44%0,56%0,56%30%,80%30%,80%60%,100%60%,100%100%,50%100%)
+  }
+</style>
