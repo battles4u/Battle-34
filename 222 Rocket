@@ -1,0 +1,21 @@
+<p><style>
+  *{
+    background:#B0E1FB;
+    border:solid;
+    border-width:35 38;
+    border-color:#0000#0000 var(--c,#C15965);
+    margin:120 135 90;
+    *{
+      --c:#4B4D88;
+      margin:-55-38 55;
+    }
+  }
+  p{
+    position:fixed;
+    border:11q solid#B0E1FB;
+    background:#4B4D88;
+    padding:90 25;
+    border-radius:1in;
+    margin:-95-8
+  }
+</style>
