@@ -1,0 +1,11 @@
+<style>
+  &{
+    background:radial-gradient(1q,#0000 79q,#fff 0 90px,#000 0 127q,#F8B140),conic-gradient(#fff 0 25%,#67AED4 25% 75%,#fff 75%); 
+    *{
+      background:#67AED4;
+      margin:125 225 125 125;
+      border-radius:1in;
+      box-shadow:53q 0#fff,106q 0#67AED4
+    }
+  }
+</style>
